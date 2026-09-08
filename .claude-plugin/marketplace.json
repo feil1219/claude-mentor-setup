@@ -1,0 +1,13 @@
+{
+  "name": "mentor-setup",
+  "owner": {
+    "name": "Michael Rapp"
+  },
+  "plugins": [
+    {
+      "name": "agentic-mentor",
+      "source": "./plugins/agentic-mentor",
+      "description": "Michael's personal working agreement: language protocol, English coaching, mentor stance, learning methodology, and knowledge-vault maintenance."
+    }
+  ]
+}

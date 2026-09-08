@@ -1,0 +1,19 @@
+{
+  "description": "Injects Michael's working agreement (language protocol, English coaching, mentor stance) at the start of every session and after every compaction.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact|fork",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node",
+            "args": ["${CLAUDE_PLUGIN_ROOT}/hooks/inject-core-directives.js"],
+            "timeout": 10,
+            "statusMessage": "Loading mentor working agreement..."
+          }
+        ]
+      }
+    ]
+  }
+}
