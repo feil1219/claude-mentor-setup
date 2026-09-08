@@ -1,0 +1,22 @@
+[
+{"query":"ive been reading about agent harnesses for three evenings now and i still havent built anything with it","should_trigger":true},
+{"query":"quiz me on what we covered about RAG last week","should_trigger":true},
+{"query":"i want to start with generative ai this month. how should i structure the next four weeks around my 5-8 hours","should_trigger":true},
+{"query":"do i really need to understand the attention math or is it enough that i know what it does","should_trigger":true},
+{"query":"here is my feynman explanation of KV caching, tell me honestly if it holds up: the model keeps the old keys and values around so it doesnt recompute them","should_trigger":true},
+{"query":"i keep bouncing between computer vision and the agentic stuff and finish neither of them","should_trigger":true},
+{"query":"how deep should i go on transformers before i move on to agent architectures","should_trigger":true},
+{"query":"my browser has 40 papers open and i have not read a single one of them","should_trigger":true},
+{"query":"im rusty on backprop. whats a good way to get it back to the point where i could explain it to someone","should_trigger":true},
+{"query":"should i start interleaving ML and robotics now or stay on one path until it sticks","should_trigger":true},
+{"query":"explain what this function in src/utils/parse.ts does","should_trigger":false},
+{"query":"find me the docs for the anthropic sdk streaming api","should_trigger":false},
+{"query":"why is this test flaky? it passes locally and fails in ci about one run in five","should_trigger":false},
+{"query":"review my PR for the retry logic before i merge it","should_trigger":false},
+{"query":"whats the difference between let and const","should_trigger":false},
+{"query":"write documentation for the agent module in docs/","should_trigger":false},
+{"query":"i need to learn what version of react this project is on","should_trigger":false},
+{"query":"teach the linter to ignore the generated files under dist/","should_trigger":false},
+{"query":"summarize this paper for me https://arxiv.org/abs/2201.11903","should_trigger":false},
+{"query":"set up jest in this repo with ts support","should_trigger":false}
+]

@@ -36,7 +36,7 @@ A local `--plugin-dir` copy takes precedence over the installed one for that
 session, so you can test changes without uninstalling. `/reload-plugins` picks
 up edits without a restart.
 
-See [TESTING.md](TESTING.md) for trigger test cases.
+See [TESTING.md](TESTING.md) for manual trigger cases and [evals/](evals/) for the quantitative trigger benchmark.
 
 Validate before pushing:
 

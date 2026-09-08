@@ -1,0 +1,22 @@
+[
+{"query":"why do we put the retry logic in the client and not in the gateway? i always thought retries belong to whoever owns the network boundary","should_trigger":true},
+{"query":"im refactoring the agent loop in src/agent/loop.ts and i dont get why we need a separate planner step at all. cant the model just call tools directly?","should_trigger":true},
+{"query":"explain the tradeoff between putting tool schemas in the system prompt vs loading them on demand when the context is already tight","should_trigger":true},
+{"query":"we have three services that all write to the same postgres table in the life os prototype. is that as bad as it feels or is there a name for doing it deliberately","should_trigger":true},
+{"query":"walk me through why eventual consistency is fine for the activity feed but not for the streak counter","should_trigger":true},
+{"query":"whats the actual difference between an agent and a workflow? everyone in the team uses these words differently and i want to stop guessing","should_trigger":true},
+{"query":"i picked SQS over kafka for the life os event bus mostly on gut feel. talk me through whether that holds up","should_trigger":true},
+{"query":"can you explain me why the context window fills so fast when i add two MCP servers, i thought the schemas are lazy loaded","should_trigger":true},
+{"query":"before you write the code — why is dependency injection the standard answer here instead of just importing the module directly","should_trigger":true},
+{"query":"my reviewer wrote that my error handling is 'not idiomatic go'. what does that mean structurally, not stylistically","should_trigger":true},
+{"query":"run npm test and fix whatever fails","should_trigger":false},
+{"query":"whats the path to the eslint config in this repo","should_trigger":false},
+{"query":"rename the variable `usr` to `user` everywhere under src/","should_trigger":false},
+{"query":"the build fails with \"cannot find module ./agent/loop\" after i moved the file. fix it","should_trigger":false},
+{"query":"write a unit test for parseConfig in src/config.ts, edge cases included","should_trigger":false},
+{"query":"add a --dry-run flag to the cli entrypoint","should_trigger":false},
+{"query":"explain what this regex does: /^\\d{4}-\\d{2}-\\d{2}$/","should_trigger":false},
+{"query":"commit this with a decent message","should_trigger":false},
+{"query":"which node version does this project need? check the engines field","should_trigger":false},
+{"query":"summarize what changed in the last 5 commits","should_trigger":false}
+]

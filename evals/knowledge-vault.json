@@ -1,0 +1,22 @@
+[
+{"query":"where should i write down what we just figured out about idempotency keys","should_trigger":true},
+{"query":"did we already cover backpressure somewhere in my notes or am i starting fresh","should_trigger":true},
+{"query":"im on my work laptop today and theres no knowledge base on this machine yet","should_trigger":true},
+{"query":"add what we just discussed about tool result truncation to the vault","should_trigger":true},
+{"query":"what do i actually already know about prompt caching","should_trigger":true},
+{"query":"this feels like it belongs in the software-engineering domain but im not sure which cluster it goes in","should_trigger":true},
+{"query":"is what we just worked out a project note or is it evergreen","should_trigger":true},
+{"query":"we went through three new concepts today and none of them got written down anywhere","should_trigger":true},
+{"query":"my knowledge base lives on the other machine. can you still record this somehow so i dont lose it","should_trigger":true},
+{"query":"i added two concepts to the generative-ai cluster by hand, the MOC is out of date now","should_trigger":true},
+{"query":"write a README for this repo","should_trigger":false},
+{"query":"document the api endpoints in docs/api.md","should_trigger":false},
+{"query":"add a comment above this function explaining the off-by-one","should_trigger":false},
+{"query":"where is the database config stored in this project","should_trigger":false},
+{"query":"note that the integration tests need redis running locally","should_trigger":false},
+{"query":"create a changelog entry for the 0.4.0 release","should_trigger":false},
+{"query":"what does the readme say about the deployment steps","should_trigger":false},
+{"query":"keep a list of every file you changed in this session","should_trigger":false},
+{"query":"remember that i prefer pnpm over npm in this project","should_trigger":false},
+{"query":"save the current draft to /tmp/draft.md","should_trigger":false}
+]
