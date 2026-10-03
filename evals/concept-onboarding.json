@@ -1,0 +1,22 @@
+[
+{"query":"i want to properly understand backpressure before i touch the event queue in life os. not a quick answer, actually work through it with me","should_trigger":true},
+{"query":"ich will speculative decoding endlich richtig verstehen — so dass ichs ohne notizen erklären kann. lass uns das einmal sauber durchgehen","should_trigger":true},
+{"query":"we keep running into idempotency keys in the sync code and i only half get it. can we do this one properly, explanation, check, and into the vault","should_trigger":true},
+{"query":"i've nodded along to 'eventual consistency' for two years. i want to actually own that concept now, end to end","should_trigger":true},
+{"query":"lets take a step back from the retry handler — i want to really learn what a circuit breaker pattern is before we build one, and make sure it sticks","should_trigger":true},
+{"query":"can you onboard me on agent grounding? we touched it last week but i couldnt explain it to anyone yet","should_trigger":true},
+{"query":"KV caching ist mir neu und taucht überall auf. erklär mirs gründlich, prüf ob ichs verstanden hab und leg es ab","should_trigger":true},
+{"query":"i want to go deep on CRDTs before deciding anything about offline sync. treat it like a proper learning unit, not a chat answer","should_trigger":true},
+{"query":"take me through the outbox pattern from first principles and quiz me at the end so i know i really got it","should_trigger":true},
+{"query":"we already have a note on RAG in the vault but i want to properly extend it with what we learned about reranking today","should_trigger":true},
+{"query":"quick one: whats the difference between a mutex and a semaphore again","should_trigger":false},
+{"query":"why do we put the retry logic in the client instead of the gateway? just the short version, im mid-task","should_trigger":false},
+{"query":"explain what this regex does: /^(?=.*\\d)(?=.*[a-z]).{8,}$/","should_trigger":false},
+{"query":"quiz me on the concepts we covered last week, mixed order","should_trigger":false},
+{"query":"plan my learning path for generative ai for the next four weeks, 6 hours a week","should_trigger":false},
+{"query":"ive been reading about agent harnesses for three evenings and havent built anything, is that a problem","should_trigger":false},
+{"query":"hatten wir backpressure schon im vault? schau mal nach was da steht","should_trigger":false},
+{"query":"just drop a note in the vault that we chose sqlite for local storage because of the sync library","should_trigger":false},
+{"query":"what does 'idempotent' mean in http terms, one sentence","should_trigger":false},
+{"query":"the build fails because the outbox table migration is missing, fix it","should_trigger":false}
+]
