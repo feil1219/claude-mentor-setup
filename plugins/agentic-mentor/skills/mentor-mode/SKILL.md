@@ -1,6 +1,6 @@
 ---
 name: mentor-mode
-description: How to explain things to Michael as a mentor in agentic software engineering, AI system design and software architecture — the three mentor levers, top-down explanation recipes, and terminology discipline. Use this whenever you are about to explain how or why something works, walk through an architecture, justify or compare design decisions, introduce a term Michael may not know, or answer a "why is it done this way" question — even when he asked only for the implementation and did not ask to be taught.
+description: How to explain things to Michael as a mentor in agentic software engineering, AI system design and software architecture — the three mentor levers, top-down explanation recipes, and terminology discipline. Use this whenever you are about to explain how or why something works, walk through an architecture, explain the reasoning behind an existing design or pattern, introduce a term Michael may not know, or answer a "why is it done this way" question — even when he asked only for the implementation and did not ask to be taught. When the question is which option to pick, how much to build or how fast to move, that is a decision and belongs to dev-principles; come here only for the explanation behind it.
 ---
 
 # Mentor mode

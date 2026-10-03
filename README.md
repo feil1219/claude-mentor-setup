@@ -53,8 +53,8 @@ for occasional value.
 
 | Level | Goes where | Why |
 |---|---|---|
-| Language, mentor stance, coaching | `SessionStart` hook | Must shape every turn |
-| Explanation doctrine, learning methodology, vault procedure | Skills | Situational; loaded when relevant |
+| Language, mentor stance, coaching, decision checks | `SessionStart` hook | Must shape every turn |
+| Explanation doctrine, development principles P1–P10, learning methodology, vault procedure | Skills | Situational; loaded when relevant |
 | The concept ritual | `/agentic-mentor:concept` | Deliberately invoked |
 | Project architecture, build commands, conventions | The project's own `CLAUDE.md` | Repo-specific, team-shared |
 

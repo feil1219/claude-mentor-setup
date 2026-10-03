@@ -1,0 +1,22 @@
+[
+{"query":"should i build the habit app and the journaling app as two separate repos, or pull the shared intention logic into a core package first? i want one of them on testflight by end of month","should_trigger":true},
+{"query":"thinking of skipping event tracking for the first testflight build of the focus timer so i can ship this week. its only five friends anyway","should_trigger":true},
+{"query":"i ran 30 synthetic persona interviews through claude and 26 said theyd pay 4€/month for the evening review. good enough to start building the paywall?","should_trigger":true},
+{"query":"notion or linear for the life os roadmap? i keep switching back and forth and its eating my evenings","should_trigger":true},
+{"query":"the streaks cycle is in week 3 of a 2 week appetite but im really close, maybe 3 more evenings. extend it or not","should_trigger":true},
+{"query":"does the event schema need versioning from day one or can i just dump json blobs into a table for now and clean it up later","should_trigger":true},
+{"query":"lass uns P6 anpassen — ich glaube synthetic users sind inzwischen gut genug, um damit auch zu priorisieren","should_trigger":true},
+{"query":"how do i find out whether people actually want the weekly reflection feature before i sink two weeks into it","should_trigger":true},
+{"query":"drei kandidaten für den nächsten zyklus: home screen widget, apple health sync, onboarding neu. was zuerst?","should_trigger":true},
+{"query":"submit the focus timer to the app store now or keep it in testflight a few more weeks? it works but its pretty bare bones","should_trigger":true},
+{"query":"explain how feature flags and remote config differ under the hood — where does the flag actually get evaluated, client or server?","should_trigger":false},
+{"query":"woher kommt eigentlich die unterscheidung type-1 vs type-2 decisions? war das bezos? erklär mir kurz die idee dahinter","should_trigger":false},
+{"query":"walk me through how D7 and D30 cohort retention are calculated, i keep mixing up the denominators","should_trigger":false},
+{"query":"why does event sourcing make schema changes so painful? conceptually, not for any specific project","should_trigger":false},
+{"query":"what exactly is an opportunity solution tree and how is it different from a normal feature backlog","should_trigger":false},
+{"query":"is the say-do gap a psychology term or a product research term? where does it come from","should_trigger":false},
+{"query":"how does testflight distribution actually work — whats the difference between internal and external testers and why does external need review","should_trigger":false},
+{"query":"why is ports and adapters also called hexagonal architecture, what does the hexagon stand for","should_trigger":false},
+{"query":"add a posthog capture call for 'review_completed' in src/review/submit.ts, same props as the other events","should_trigger":false},
+{"query":"write today's STATE.md: sync retry is done and merged, next action is to start the conflict resolver spec","should_trigger":false}
+]

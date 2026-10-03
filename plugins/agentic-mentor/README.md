@@ -7,8 +7,9 @@ travels to any machine and any repository.
 
 | Layer | Mechanism | Content |
 |---|---|---|
-| Always-on | `SessionStart` hook → `context/core-directives.md` | Language protocol, English coaching, the three mentor levers |
+| Always-on | `SessionStart` hook → `context/core-directives.md` | Language protocol, English coaching, the three mentor levers, the four decision checks |
 | On demand | `skills/mentor-mode` | How to explain: levers in depth, top-down recipe, terminology discipline |
+| On demand | `skills/dev-principles` | How to decide: P1–P10 with their reasoning — scope, pace, reversibility, validation, core vs. app layer |
 | On demand | `skills/learning-session` | Depth scale, activity modes, study principles, anti-patterns |
 | On demand | `skills/knowledge-vault` | Vault resolution and bootstrap, note-type rule, template, MOC maintenance |
 | Invocable | `/agentic-mentor:concept <name>` | The full explain → check → record ritual |

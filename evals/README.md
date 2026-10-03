@@ -41,7 +41,7 @@ board, suspect the timeout before you rewrite anything.
 
 **`--num-workers 4`.** The default of 10 spawns ten full Claude sessions at once.
 On a loaded machine they starve each other and time out, producing the same
-false zero. Four is slower and honest. Run the three skills one after another,
+false zero. Four is slower and honest. Run the skills one after another,
 not in parallel.
 
 ## Interpreting the result
@@ -54,6 +54,6 @@ not in parallel.
   measuring anything. Replace that query.
 
 One caveat this harness cannot cover: it evaluates each skill alone. It will not
-tell you whether `mentor-mode` and `concept-onboarding` steal turns from each
-other, because competing skills are not loaded. Judge that from real sessions
+tell you whether `mentor-mode` and `concept-onboarding`, or `mentor-mode` and
+`dev-principles`, steal turns from each other, because competing skills are not loaded. Judge that from real sessions
 with `TESTING.md`.
