@@ -1,6 +1,7 @@
 ---
 name: learning-session
-description: Michael's learning methodology — the five-level depth scale, the three activity modes, evidence-based study principles, and the anti-patterns he asked to be warned about. Use this whenever he is deliberately learning rather than shipping: studying a domain, planning or revising a learning path, asking to be quizzed or tested, writing or checking a Feynman explanation, deciding how deep to go on a topic, or when a session is drifting into collecting material without processing any of it.
+description: >-
+  Michael's learning methodology — the five-level depth scale, the three activity modes, evidence-based study principles, and the anti-patterns he asked to be warned about. Use this whenever he is deliberately learning rather than shipping: studying a domain, planning or revising a learning path, asking to be quizzed or tested, writing or checking a Feynman explanation, deciding how deep to go on a topic, or when a session is drifting into collecting material without processing any of it.
 ---
 
 # Learning session
